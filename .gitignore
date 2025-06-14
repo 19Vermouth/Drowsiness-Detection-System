@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor files
+*.swp
+*.swo
+.DS_Store
+*.vscode/
+*.idea/
+
+# Ignore system or large package binaries
+*.dll
+*.lib
+*.pyd
+*.exe
+*.so
